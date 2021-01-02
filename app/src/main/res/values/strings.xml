@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">RecyclerView_HW3.3</string>
+    <string-array name="food_images">
+        <item>image01</item>
+        <item>image02</item>
+        <item>image03</item>
+        <item>image04</item>
+        <item>image05</item>
+        <item>image06</item>
+        <item>image07</item>
+        <item>image08</item>
+        <item>image09</item>
+        <item>image10</item>
+        <item>image11</item>
+        <item>image12</item>
+        <item>image13</item>
+        <item>image14</item>
+        <item>image15</item>
+        <item>image16</item>
+        <item>image17</item>
+        <item>image18</item>
+        <item>image19</item>
+        <item>image20</item>
+    </string-array>
+
+
+    <string-array name="food_names">
+        <item>Paleo Pecan-Maple Salmon</item>
+        <item>Tennessee Meatloaf</item>
+        <item>Stuffed Peppers</item>
+        <item>Chicken, Apple, and Brussels Sprout</item>
+        <item>Lasagna</item>
+        <item>Perfect Prime Rib</item>
+        <item>Lemon Chicken Tenders</item>
+        <item>Smothered Pork Chops</item>
+        <item>Cheesy Tuna Noodle Casserole</item>
+        <item>Pork and Pepper Stir Fry</item>
+        <item>Leftover Turkey Pot Pie</item>
+        <item>Garlic Prime Rib</item>
+        <item>Honey-Garlic Chicken Thighs</item>
+        <item>Italian Meatballs</item>
+        <item>Roasted Rack of Lamb</item>
+        <item>Dumplings</item>
+        <item>Honey Glazed Ham</item>
+        <item>Easy Slow Cooker Pot Roast</item>
+        <item>To Die For Fettuccine Alfredo</item>
+        <item>Tangy Honey Glazed Ham</item>
+    </string-array>
+    <string-array name="food_intros">
+        <item>This recipe is not only easy but healthy and tasty! Paleo, gluten-free and dairy-free! </item>
+        <item>Do not let the number of ingredients discourage you. It is part of the magic in creating a masterpiece!</item>
+        <item>Roasted green bell peppers are stuffed with feta cheese and a mixture of rice and green onions.</item>
+        <item>This one, with chicken, apple, and Brussels sprouts, is not only easy to cook,but even easier to clean! Serve it alone or with rice/salad.</item>
+        <item>After years of tweaking this recipe, I have finally got it to where I want it. Everyone raves about this lasagna just the way it is, although I will probably never stop tweaking it!</item>
+        <item>This is a specific formula for achieving a perfectly pink prime rib cooked somewhere a shade under medium rare. </item>
+        <item>This a great recipe that my family loves. It is fairly quick and easy, and you more than likely do not have to go out and buy any new ingredients!</item>
+        <item>You know that when a recipe has smothered in the name, it is going to be easy. It is a beautiful combination of dark, rich onion gravy covering pan-fried pork chops. Serve over hot cooked rice.</item>
+        <item>This was a favorite in my home growing up and now it is a favorite of my family as well. I double the recipe these days for my husband and three children. </item>
+        <item>A very easy, spicy stir fry! Adjust spice to your particular taste! Best with marinade, but in a pinch, it is not necessary! Can be chicken, beef whatever meat or cut of meat you have on hand! Enjoy with basmati or sticky rice </item>
+        <item>Turkey pot pie like you have never tasted before. It will not last findlong.</item>
+        <item>Quick and easy marinade and so tasty, I was trusted with this recipe but I can not keep it to myself!</item>
+        <item>This is one of my family favorite recipes. It is garlic-sweet and the cilantro tops it off.</item>
+        <item>Homemade meatballs are a very easy to make, and since we skip the very messy step of pan-frying these before they hit the sauce, it becomes downright simple. Here I use a standard half-beef/half-pork mixture.</item>
+        <item>I have had this recipe for a long time, and always enjoy making it. You can also do the same thing with beef or pork.</item>
+        <item>My mother was one of the best cooks I ever knew. When she made stews we mostly found dumplings in them. I do not use any electronic gadgets to cook with except an electric stove.</item>
+        <item>This ham tastes very much like the famous honey baked ham but costs much less, and there is no need to fight the crowds at holiday time. You can even buy the ham presliced to make it easier and more like the original. It is very good.</item>
+        <item>Moist and juicy pot roast done in a slow cooker with carrots, onion and potatoes.</item>
+        <item>This is a recipe that I created by modifying my mother recipe. My boyfriend is a fettuccine Alfredo connoisseur and he scrapes the pan every time! I get nothing but rave reviews when I make this dish.</item>
+        <item>I came up with the glaze for this ham using ingredients on hand and it is the best I have ever tasted.If you have any glaze left over, you can add it to the pan drippings with a little flour or cornstarch and make a nice sauce to accompany the meat.</item>
+
+    </string-array>
+    <string name="whole_recipe_sample">
+        <b>Ingredients</b> \n \n
+1 ½ cups shortening  \n
+½ cup molasses  \n 2
+2 eggs  \nIngredient Checklist
+4 (4 ounce) fillets salmon \n
+salt and ground black pepper to taste\n
+½ cup pecans\n
+3 tablespoons pure maple syrup\n
+1 tablespoon apple cider vinegar\n
+1 teaspoon smoked paprika\n
+½ teaspoon chipotle pepper powder\n
+½ teaspoon onion powder\n
+DirectionsInstructions Checklist\n
+Step 1\n
+Place salmon fillets on a baking sheet and season with salt and black pepper.\n
+Step 2\n
+Combine pecans, maple syrup, vinegar, paprika, chipotle powder, and onion powder in a food processor; pulse until texture is crumbly. Spoon pecan mixture on top of each salmon fillet, coating the entire top surface. Refrigerate coated salmon, uncovered, for 2 to 3 hours.\n
+Step 3\n
+Preheat oven to 425 degrees F (220 degrees C).\n
+Step 4\n
+Bake salmon in the preheated oven until fish flakes easily with a fork, 12 to 14 minutes.\n
+
+
+    </string>
+</resources>
