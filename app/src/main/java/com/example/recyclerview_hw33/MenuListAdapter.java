@@ -34,15 +34,15 @@ public class MenuListAdapter extends RecyclerView.Adapter<MenuListAdapter.MenuVi
 
     @Override
     public void onBindViewHolder(@NonNull MenuViewHolder holder, int position) {
-        holder.textViewFoodName.setText(MainActivity.recipeList.get(position).foodName);
-        holder.textViewFoodIntro.setText(MainActivity.recipeList.get(position).foodIntroText);
-        holder.imageView.setImageResource(MainActivity.recipeList.get(position).imageId);
+        holder.textViewFoodName.setText(recipeList.get(position).foodName);
+        holder.textViewFoodIntro.setText(recipeList.get(position).foodIntroText);
+        holder.imageView.setImageResource(recipeList.get(position).imageId);
 
     }
 
     @Override
     public int getItemCount() {
-        return MainActivity.recipeList.size();
+        return recipeList.size();
     }
 
     public class MenuViewHolder extends RecyclerView.ViewHolder{

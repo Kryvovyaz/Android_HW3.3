@@ -5,7 +5,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class Menu_item extends AppCompatActivity {
+public class Menu_item  {
 
     public String foodName;
     public String foodIntroText;
